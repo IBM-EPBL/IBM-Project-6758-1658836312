@@ -1,1 +1,9 @@
+Once the model is made to run , now it is ready for domestic use.
+We can now access the webpage anytime after connecting the ibm watson cloud platform to the model.
 
+The idea of this application is that the user can capture the images of different 
+fruits and vegetables, and then the image will be sent to the trained model. 
+The model analyses the image and detects the nutrition based on the fruits like 
+(Sugar, Fibre, Protein, Calorie intake, etc.). The above idea is achieved by using 
+the Convolution Neural Network (CNN) . It is used to pick the raw pixels 
+present in the image . Fruit Recognition using Colour and Texture Features .
