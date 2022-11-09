@@ -1,0 +1,15 @@
+Our Team carried out this entire project in Jupyter notebook.
+First requirement is the keras module, istall keras module in jupyter notebook by !conda command.
+
+Next install the tensorflow module
+Now load the dataset that is downloaded.
+Now it is time for the dataset training.
+After training the datasets, load model from the disk.
+
+Now create html webpage to load the random image to classify the food.
+
+After that rootup the html file to python api.
+
+After launching it with flask API we will get the link for web api with port number.
+
+Now run the module.
