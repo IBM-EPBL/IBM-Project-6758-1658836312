@@ -69,7 +69,3 @@ We loved this emtire timeline working in this project
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hariharan001-eng.Hariharan001-eng)]
 
-
-
-![snake gif](https://github.com/Hariharan001-eng/Hariharan001-eng/blob/dist/github-contribution-grid-snake.gif)
-
