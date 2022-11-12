@@ -16,7 +16,7 @@ Contibuted by PNT2022TMID20852
 Hi there, I'm <a href="https://devpost.com/Hariharan001" target="_blank" rel="noreferrer">HARIHARAN</a> 👋
 </h3>
 
-<h2 align="center">
+<h2>
 I'm a B.Tech IT Graduate 💻 ,Team lead for this project 
 </h2> 
 
