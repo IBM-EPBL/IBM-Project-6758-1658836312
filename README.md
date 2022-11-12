@@ -68,3 +68,7 @@ We loved this emtire timeline working in this project
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharan001-eng&layout=compact)](https://github.com/Hariharan001-eng)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Hariharan001-eng.Hariharan001-eng)]
+
+
+
+![Snake animation](https://github.com/Hariharan001-eng/Hariharan001-eng/blob/output/github-contribution-grid-snake.svg)
