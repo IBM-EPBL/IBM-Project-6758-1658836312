@@ -3,7 +3,7 @@ AI-powered Nutrition Analyzer for Fitness Enthusiasts
 Contibuted by PNT2022TMID20852
 
 <p align="center">
-  <a href="https://github.com/Hariharan001-eng" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsmartinternz.com%2Fassets%2Fibm%2Fimages%2FIBM_Logo.png&imgrefurl=https%3A%2F%2Fcareereducation.smartinternz.com%2F&tbnid=f1tN0SVTbyd5_M&vet=12ahUKEwjvz4z3man7AhX4odgFHblDA9wQMygIegQIARBU..i&docid=FC1io63NbzK1cM&w=4075&h=1511&q=ibm%20nalaiya%20thiran&hl=en&ved=2ahUKEwjvz4z3man7AhX4odgFHblDA9wQMygIegQIARBU" alt="my banner"></a>
+  <a href="https://github.com/Hariharan001-eng" target="_blank" rel="noreferrer"><img src="https://tgdaily.com/wp-content/uploads/2019/05/ibm_logo-300x143.jpg" alt="my banner"></a>
 </p>
 <br>
 <p align ="center">
@@ -33,8 +33,8 @@ We loved this emtire timeline working in this project
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- Pyteserract 
+- AI-powered Nutrition Analyzer for Fitness Enthusiasts
 - My next blog
 - My CSS skill
 
