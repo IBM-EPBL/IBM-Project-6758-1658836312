@@ -71,4 +71,6 @@ We loved this emtire timeline working in this project
 
 
 
-![Snake animation](https://github.com/Hariharan001-eng/Hariharan001-eng/blob/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Hariharan001-eng/Hariharan001-eng/blob/output/dist/github-contribution-grid-snake.svg)
+
+
